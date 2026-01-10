@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yashasvi</h1>
-<h3 align="center">Computer Science Student | Machine Learning | Web Development</h3>
-🌱 Currently learning: Machine Learning, Deep Learning  
-🎓 Computer Science student  
-
+<h1>Hi 👋, I'm Yashasvi</h1>
+🌱 Currently learning: Machine Learning, Deep Learning 
+  
 ## 👨‍💻 About Me
 - 🎓 Computer Science student  
 - 💡 Interested in Machine Learning, Data Science, and Full-Stack Development  
