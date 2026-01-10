@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Yashasvi 👋</h1>
-<h3 align="center">Computer Science Student | Machine Learning & Web Development</h3>
+<h1>Hi, I'm Yashasvi 👋</h1>
+<h3>Computer Science Student | Machine Learning & Web Development</h3>
 
 ---
 
@@ -9,7 +9,7 @@ I am a Computer Science undergraduate passionate about Machine Learning, Data Sc
 ---
 
 ## 📌 Connect with Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
