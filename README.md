@@ -24,15 +24,4 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
-
-![Yashasvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
 
